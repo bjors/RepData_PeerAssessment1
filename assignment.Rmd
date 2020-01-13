@@ -1,5 +1,5 @@
 ---
-title: "analysis"
+title: "Reproducible Research - course project #1"
 output: html_document
 ---
 
